@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rmz:home|Door43 (rmz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rmz|d43-rmz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rmz/archive/master.zip|d43-rmz.zip]]
+
+**Recent Changes**
+{{changes>ns = rmz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rmz|Ethnologue data]]
+
